@@ -1,7 +1,7 @@
-﻿using GivePenny.GherkinSpec.TestModel;
+﻿using GherkinSpec.TestModel;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace GivePenny.GherkinSpec.SimpleExample.Tests.Steps
+namespace GherkinSpec.SimpleExample.Tests.Steps
 {
     [Steps]
     public class CalculatorSteps
