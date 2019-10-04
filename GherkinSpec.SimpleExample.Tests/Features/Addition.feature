@@ -11,4 +11,4 @@ Scenario: Add two numbers together
 Scenario: Add two numbers together
 	Given I have 6 apples
 	When I add 7 more
-	Then the result should be 13
+	Then the result should be 12

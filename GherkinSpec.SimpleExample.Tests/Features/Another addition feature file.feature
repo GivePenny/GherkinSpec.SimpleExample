@@ -6,4 +6,5 @@
 Scenario: Add two numbers together
 	Given I have 7 apples
 	When I add 8 more
-	Then the result should be 15
+	Then the result should be 14
+	
